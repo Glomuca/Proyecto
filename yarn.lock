@@ -11936,9 +11936,9 @@ fsevents@^1.2.7:
   languageName: node
   linkType: hard
 
-"proyecto_1@workspace:.":
+"proyecto@workspace:.":
   version: 0.0.0-use.local
-  resolution: "proyecto_1@workspace:."
+  resolution: "proyecto@workspace:."
   dependencies:
     "@testing-library/jest-dom": ^5.11.4
     "@testing-library/react": ^11.1.0
